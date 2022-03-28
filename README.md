@@ -8,7 +8,7 @@ This project modification has its sole purpose of educational. I just made this 
 
 The app remains at it is.
 
-* Spanish
+* Spanish:
 
 Esto es simplemente SploitTest hecho por GeoSn0w pero traducido al Español. Enlaces de GitHub de GeoSn0w y realrodri han sido creados
 

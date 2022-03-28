@@ -2,7 +2,7 @@
 
 * English:
 
-This is just SploitTest made by GeoSn0w but translated to Spanish. GitHub links for realrodri and GeoSn0w have been created.
+This is just SploitTest made by GeoSn0w but translated to Spanish, with some more clarifications in the pop up when you run the app for you to clearly understand what's this program. GitHub links for realrodri and GeoSn0w have been created.
 
 This project modification has its sole purpose of educational. I just made this because I wanted to learn more about Xcode and creating things on the UI. No functionalities have been added but those previously mentioned.
 
@@ -10,7 +10,7 @@ The app remains at it is.
 
 * Spanish:
 
-Esto es simplemente SploitTest hecho por GeoSn0w pero traducido al Español. Enlaces de GitHub de GeoSn0w y realrodri han sido creados
+Esto es simplemente SploitTest hecho por GeoSn0w pero traducido al Español con algunas clarificaciones en la ventana emergente cuando ejecutas la aplicación para que entiendas claramente qué es este programa. Enlaces de GitHub de GeoSn0w y realrodri han sido creados
 
 Esta modificación del proyecto tiene el único propósito de ser educativo. Solo he hecho esto porque me gustaría aprender más de Xcode y crear cosas en la UI. No se han añadido más funcionalidades de las previamente mencionadas.
 
